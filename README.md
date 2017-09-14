@@ -1,10 +1,17 @@
-# Project-Documentation-Checklist
+# Project Documentation Sections
 
 - [ ] Table of Contents
 - [ ] Table titles with links
+- [ ] Introduction
+- [ ] Features of the app
+- [ ] Usage/App Walkthrough
+- [ ] Screenshots
+- [ ] Any possible errors/unexpected flow...
+- [ ] Developer/End-user installation from **git source code**
+- [ ] 
 
 
-## After Pushing
+## Checklist
 
 - [ ] Broken links
 - [ ] Broken images
@@ -13,3 +20,15 @@
 - [ ] Broken Italic styles
 - [ ] Broken lists
 - [ ] Broken sub-lists
+- [ ] Grammatical errors
+- [ ] Description of time-limited deployments
+- [ ] `The` should not be used in any of the apps
+- [ ] 
+
+## Resources to use during documentation
+
+1. Capture screenshots using **Android Monitor**
+
+1. Screenshots batch resizer [http://picresize.com/batch.php](http://picresize.com/batch.php)
+
+
