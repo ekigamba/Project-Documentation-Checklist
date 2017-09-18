@@ -8,7 +8,6 @@
 - [ ] Screenshots
 - [ ] Any possible errors/unexpected flow...
 - [ ] Developer/End-user installation from **git source code**
-- [ ] 
 
 
 ## Checklist
@@ -23,7 +22,11 @@
 - [ ] Grammatical errors
 - [ ] Description of time-limited deployments
 - [ ] `The` should not be used in any of the apps
-- [ ] 
+- [ ] Spaces after brackets eg. App (Android application)
+
+
+## Common mistakes
+
 
 ## Resources to use during documentation
 
